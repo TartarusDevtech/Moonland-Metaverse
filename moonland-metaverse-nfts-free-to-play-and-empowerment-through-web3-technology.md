@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/road map.jpg
-coverY: -145
+cover: .gitbook/assets/2000.jpg
+coverY: 0
 ---
 
 # Moonland Metaverse: NFTs, Free-to-Play, and Empowerment Through Web3 Technology

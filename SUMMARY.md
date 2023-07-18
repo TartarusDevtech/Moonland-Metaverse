@@ -8,4 +8,3 @@
 * [Project Partnerships and Collaborations](project-partnerships-and-collaborations.md)
 * [Roadmap at a Glance](roadmap-at-a-glance.md)
 * [MTK Token](mtk-token.md)
-* [ICO and Presale Highlights](ico-and-presale-highlights.md)

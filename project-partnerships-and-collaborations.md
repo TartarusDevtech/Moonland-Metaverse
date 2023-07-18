@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: .gitbook/assets/doggo.jpg
+coverY: 147
 ---
 
 # Project Partnerships and Collaborations

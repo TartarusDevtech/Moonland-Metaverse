@@ -1,6 +1,20 @@
 ---
-cover: .gitbook/assets/Untitled_Artwork 111 (1).jpg
-coverY: 227
+cover: .gitbook/assets/team.jpg
+coverY: 173
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Meet the Team

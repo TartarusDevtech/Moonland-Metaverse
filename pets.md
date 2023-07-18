@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/concept to 3d-03.jpg
-coverY: 149
+cover: .gitbook/assets/pets.jpg
+coverY: 166
 ---
 
 # Pets

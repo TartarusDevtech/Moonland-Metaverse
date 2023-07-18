@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Image from iOS.jpg
-coverY: -43
+cover: .gitbook/assets/ridiing.jpg
+coverY: 0
 ---
 
 # Key Features

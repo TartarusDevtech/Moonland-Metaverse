@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/asteroides.jpg
-coverY: -208
+cover: .gitbook/assets/asteroides (1).jpg
+coverY: 0
 ---
 
 # Moonland Metaverse LitePaper
