@@ -47,6 +47,8 @@ Our concept artists are the imaginative masterminds behind the captivating and u
 
 Our concept art team comprises highly experienced professionals who have left their artistic footprint in diverse areas of the creative industry. They've contributed to artwork for well-known musicians, captivating audiences with their visually enthralling album covers and music video animations. Their creative expertise even extends to the vibrant and world-renowned Wynwood Art District in Miami, FL, where their work has been showcased to the international art community.
 
+<figure><img src=".gitbook/assets/fishhead.jpg" alt=""><figcaption></figcaption></figure>
+
 One of our standout concept artists is Eniat whose incredible skills have played a vital role in defining the unique aesthetic of Moonland. With an exceptional eye for detail and a passion for innovative design, Eniat's contributions have given Moonland a distinct style that sets it apart in the world of metaverses. His ability to blend realism with fantasy creates an immersive, mesmerizing environment that is as visually stunning as it is engaging.
 
 Our concept artists are continuously working to expand and enhance the visual landscape of Moonland, utilizing their unique artistic styles to create a universe that is not just visually appealing, but also narratively rich. They bring to life the varied environments, distinctive characters, exotic pets, and intricate items that make up our Metaverse, embedding each with a sense of history and purpose.
