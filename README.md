@@ -3,16 +3,26 @@ cover: .gitbook/assets/asteroides (1).jpg
 coverY: 0
 ---
 
-# Moonland Metaverse LitePaper
+# Moonland Litepaper Summary
 
-Welcome to Moonland, a revolutionary gaming social multiplayer that merges blockchain technology with action-packed RPG gameplay. Moonland is an online RPG that is free to play and features 28 base characters for players to choose from. With a connected wallet, players can fully customize these characters, mint them as NFTs, and trade them with others. Even without connecting a wallet, we keep track of your player level and story progression, ensuring that your progress is always saved.
+The Moonland Dev team has built all the core aspects of the Moonland Metaverse. Our movement system, flying system, and all base world systems have been fleshed out.&#x20;
 
-Blockchain technology and NFTs Moonland utilizes blockchain technology to enable NFT functionality and provide a secure, transparent, and immutable ledger for all transactions within the Metaverse. This means that the ownership of virtual assets is verifiable and can be traded on decentralized marketplaces. The use of NFTs in Moonland enables players to own and trade their virtual assets, unlocking new revenue streams and providing players with more control over their virtual assets.
+This includes player login, zone spawning, character selection, inventory system, and quest system. Alongside the enemy and NPC work, Outside the game itself, we have been able to work out the Game Installer, automatic update system, and initial server infrastructure deployed for early access and alpha testing.
 
-Multi-game access Moonland acts as a gateway to multiple video games within the Metaverse, giving players access to a wide range of games without having to leave the Metaverse. This allows players to seamlessly switch between games and access their virtual assets across different games. This not only enhances the gaming experience but also provides players with the ability to monetize their virtual assets across multiple games.
+With this first level of detail for Moonland’s technology underway in just over one year, the Moonland Dev team has created the foundation that Moonland will build upon for the years to come.
 
-Moonland offers players a unique gaming experience with high-quality graphics and gameplay. It utilizes the Unreal Engine 5 to create an immersive narrative environment filled with diverse characters and activities. Through captivating storytelling, Moonland pushes the boundaries of gaming, allowing players to own and control their in-game assets in a vibrant virtual world.
+Moonland is a hybrid metaverse RPG that blends the living economy aspects of an MMO with Web3 technologies.&#x20;
 
-In the first stages of the game, players can unlock all 13 of our social multiplayer mini-games, which are based on some of the classics. This feature allows players to take a break from the main story and enjoy some fun multiplayer games with friends.
+Every aspect of the internal economy will be tokenized, and all economic activity will require interaction with services hosted on player-owned digital real estate.&#x20;
 
-In-game economy Moonland features an in-game economy where players can buy, sell, and trade virtual assets using NFTs. The in-game economy will be fueled by an internal currency called MoonCoin, which can be bought and sold for other cryptocurrencies or fiat currency. This allows players to earn real-world value from their virtual assets, providing them with a new source of income.
+Owners of this real estate will compete with other land owners to draw as many renters and visitors to their estate to sell digital advertising or collect rewards from Web3 transactions.
+
+To stimulate the Moonland Economy, we designed an economic model based on proven successful use cases and adapted them to a web3 platform.
+
+These methods will be detailed later in the litepaper, but the main goal is to create a metaverse experience that allows traditional businesses to invest their marketing budgets in our advertising portal.
+
+Drawing users into the metaverse is a big challenge. Most traditional video games have a lifespan of a few years, while some MMO’s have been able to prosper for 20+ years.&#x20;
+
+By incorporating the best ideas from legacy MMO’s and adding sustainable play-to-earn mechanics, Moonland hopes to achieve a large player base that will allow outside advertisers to achieve a competitive “return on advertising spend.”
+
+Moonland won’t only cater to gamers. It’s meant to be a metaverse that attracts all kinds of interest. Those who wish to watch a streamer, listen to music, go to a concert, or socialize can do so in Moonland.
