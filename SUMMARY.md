@@ -11,4 +11,4 @@
 * [Project Partnerships and Collaborations](project-partnerships-and-collaborations.md)
 * [Roadmap at a Glance](roadmap-at-a-glance.md)
 * [Mini Games](mini-games.md)
-* [MTK Tokenomics](mtk-tokenomics.md)
+* [Pets & Potions](pets-and-potions.md)
