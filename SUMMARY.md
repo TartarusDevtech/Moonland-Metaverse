@@ -13,4 +13,3 @@
 * [MTK ICO Participants](mtk-ico-participants.md)
 * [Meet the Team](meet-the-team.md)
 * [Project Partnerships and Collaborations](project-partnerships-and-collaborations.md)
-* [Roadmap at a Glance](roadmap-at-a-glance.md)
