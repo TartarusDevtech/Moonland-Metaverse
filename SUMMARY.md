@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Moonland Litepaper Summary](README.md)
-* [Key Features](key-features.md)
-* [Moonland Metaverse: NFTs, Free-to-Play, and Empowerment Through Web3 Technology](moonland-metaverse-nfts-free-to-play-and-empowerment-through-web3-technology.md)
+* [Storyline and Background](storyline-and-background.md)
+* [Main Characters](main-characters.md)
 * [Characters](characters.md)
 * [Pets](pets.md)
 * [Meet the Team](meet-the-team.md)
