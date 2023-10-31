@@ -1,4 +1,4 @@
-# Page 1
+# Factions
 
 Exciting technologies have been discovered buried in the moon's crust after an ancient battle between an alien race, and humanoids caused its explosion.&#x20;
 
