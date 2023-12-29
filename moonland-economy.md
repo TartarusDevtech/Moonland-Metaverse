@@ -4,7 +4,7 @@ coverY: 0
 
 # Moonland Economy
 
-In the Moonland Metaverse, players can immerse themselves in a decentralized economy that revolves around NFTs (Non-Fungible Tokens) and Moonland Tokens (MTK). These tokens unlock all sorts of in-game items like weapons, characters, and other assets.&#x20;
+In Moonland, players can immerse themselves in a decentralized economy that revolves around NFTs (Non-Fungible Tokens) and Moonland Tokens (MTK). These tokens unlock all sorts of in-game items like weapons, characters, and other assets.&#x20;
 
 To get in on the action, players can earn Moonland Tokens by participating in various in-game activities or purchase them using fiat or other cryptocurrencies.&#x20;
 

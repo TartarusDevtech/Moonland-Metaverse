@@ -21,9 +21,17 @@ coverY: 166
 * Partnerships (10%, 123,456,789 MTK Tokens): Reserved for strategic collaborations that help drive Moonland's growth and expand its reach.
 * Community (15%, 185,185,184 MTK Tokens): This allocation aims to promote active involvement, encourage participation, and instill a sense of ownership.
 
+
+
+<figure><img src=".gitbook/assets/token distribution.png" alt=""><figcaption></figcaption></figure>
+
+
+
 #### Token Utility:&#x20;
 
 1. Access: MTK tokens provide access to premium features in the metaverse, allowing holders to enjoy exclusive content, areas, and experiences.
 2. Governance: Token holders can shape the future of the metaverse by participating in governance decisions that influence developments, upgrades, and improvements.
 3. Rewards: MTK tokens are rewarded for participating in quests, competitions, and activities, encouraging community involvement.
 4. NFT Market: The NFT marketplace uses MTK tokens as its native currency for seamless buying, selling, and trading of virtual assets.
+
+<figure><img src=".gitbook/assets/user adquicition.png" alt=""><figcaption></figcaption></figure>
