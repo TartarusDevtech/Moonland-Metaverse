@@ -9,7 +9,7 @@ They now exist divided into factions:
 * Geth'lee
 * Pomril
 * Zephlor
-* (Maria needs to pick a name)
+* Luridae
 
 ## The Geth'lee
 
@@ -56,23 +56,11 @@ Seeking balance and harmony, the Zephlor look to ancient knowledge to bring stab
 
 A highly secretive species of shape-shifters known for their ability to mimic other creatures.&#x20;
 
-\
-
-
 They are interested in cultural artifacts, stories, and languages which they incorporate into their constantly evolving identity.&#x20;
-
-\
-
 
 They travel in massive ark ships from one celestial body to another, scavenging resources and technology.&#x20;
 
-\
-
-
 Their ability to adapt foreign technology for their own use has made them experts.&#x20;
-
-\
-
 
 The moon's technological remains represent a treasure they cannot ignore.
 
@@ -86,27 +74,17 @@ This is where the factions live. It is divided into four sectors:&#x20;
 \
 
 
-* Binance Bayou
-* Ethereum Void
-* Tron Truck Stop
-* Gate.io Portal
+* The Quantum Realm
+* Ethereal Pool
+* Zephlor Bridge
+* Luridae's Last Stake
 
 \
 
 
 Each area attracts different blockchain communities with specific resources and environmental factors.&#x20;
 
-\
-
-
-The Tron Truck Stop offers advantages such as being less likely to get caught by the police and easier to lie to NPCs after spending time there.&#x20;
-
-\
 
 
 Certain items required for crafting or breeding can only be found in these areas, and users must have some Tron in their wallet to buy or rent anything.&#x20;
 
-\
-
-
-The Tron Truck Stop also allows for easier forgery of certain items and requires a moon passport with Tron to enter and leave.
