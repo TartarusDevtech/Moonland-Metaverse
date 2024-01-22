@@ -1,10 +1,6 @@
-# Moonland´s current stage
+# Moonland´s Current Stage
 
-The development team has built all the core aspects of the Moonland Metaverse.
-
-Our  movement  system,  flying  system,  and  all  base  world systems have been fleshed out.
-
-This includes player login, zone spawning, character selection, inventory system, and quest system.
+The development team has built all the core aspects of the Moonland Metaverse. Our  movement  system,  flying  system,  and  all  base  world systems have been fleshed out. This includes player login, zone spawning, character selection, inventory system, and quest system.
 
 Alongside the enemy and NPC work, outside the game itself, we have been able to work out the Game Installer, automatic update system, and initial server infrastructure deployed for **early access and alpha testing.**
 
