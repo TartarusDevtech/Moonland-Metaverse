@@ -1,11 +1,25 @@
 ---
-cover: .gitbook/assets/2000.jpg
+cover: .gitbook/assets/pitch deck character selection (2).jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Main Characters
 
-Two figures stand out in the vast expanse of the Moonland Metaverse: Doggo, the charismatic yet deceitful governor, and Sol Boosk, the galaxy's most feared and greedy assassin.
+Two figures stand out in the vast expanse of the Moonland Metaverse: **Doggo, the charismatic yet deceitful governor, and Sol Boosk, the galaxy's most feared and greedy assassin.**
 
 Their alliance was one of convenience and ambition, but it was an alliance that would be tested by the unwavering integrity of a rebel named Kimmi.
 

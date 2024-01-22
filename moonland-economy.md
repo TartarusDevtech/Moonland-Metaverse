@@ -1,10 +1,25 @@
 ---
+cover: .gitbook/assets/in game 2.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Moonland Economy
 
-In Moonland, players can immerse themselves in a decentralized economy that revolves around NFTs (Non-Fungible Tokens) and Moonland Tokens (MTK). These tokens unlock all sorts of in-game items like weapons, characters, and other assets.&#x20;
+In Moonland, players can immerse themselves in a decentralized economy that revolves around NFTs (Non-Fungible Tokens) and Moonland Tokens **(MTK)**. These tokens unlock all sorts of in-game items like weapons, characters, and other assets.&#x20;
 
 To get in on the action, players can earn Moonland Tokens by participating in various in-game activities or purchase them using fiat or other cryptocurrencies.&#x20;
 

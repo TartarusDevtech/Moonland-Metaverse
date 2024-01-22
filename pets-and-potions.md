@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/moonlandlogo .png
+cover: .gitbook/assets/characters moonland doogos heads (1) (1).png
 coverY: 0
 layout:
   cover:

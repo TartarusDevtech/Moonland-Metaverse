@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/imagesolinside (1).png
+coverY: -176.0129659643436
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Claimable Territories
 
 Moonland will have an exciting team-play feature where space guilds can compete for lucrative territories.&#x20;

@@ -39,10 +39,6 @@ Art & Development director
 
 Marketing Director
 
-## Danny
-
-Head of Operations
-
 ## Brandon
 
 Game developer

@@ -10,6 +10,7 @@
 * [Mini Games](mini-games.md)
 * [Pets & Potions](pets-and-potions.md)
 * [Factions](page-1.md)
-* [MTK ICO Participants](mtk-ico-participants.md)
 * [Meet the Team](meet-the-team.md)
 * [Project Partnerships and Collaborations](project-partnerships-and-collaborations.md)
+* [Press](press.md)
+* [Moonland´s current stage](moonland-s-current-stage.md)

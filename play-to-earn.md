@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/in game 3.jpg
+coverY: -114.55129789864031
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Play To Earn
 
 ## Moonland’s Play to Earn Mechanics

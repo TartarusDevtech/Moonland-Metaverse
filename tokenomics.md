@@ -1,16 +1,25 @@
 ---
-cover: .gitbook/assets/pets.jpg
-coverY: 166
+cover: .gitbook/assets/mtk 2.jpg
+coverY: -7
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Tokenomics
 
-## Token Information: <a href="#docs-internal-guid-906a1a4f-7fff-ce73-affc-5a21469b5b4d" id="docs-internal-guid-906a1a4f-7fff-ce73-affc-5a21469b5b4d"></a>
-
-* Token Name: Moonland Metaverse Token (MTK)
-* Token Symbol: MTK
-* Total Supply: 1,234,567,890 MTK
-* ICO Price: $0.21 per MTK token
+<figure><img src=".gitbook/assets/token 2.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Token Distribution:
 
@@ -23,15 +32,6 @@ coverY: 166
 
 
 
-<figure><img src=".gitbook/assets/token distribution.png" alt=""><figcaption></figcaption></figure>
 
 
-
-#### Token Utility:&#x20;
-
-1. Access: MTK tokens provide access to premium features in the metaverse, allowing holders to enjoy exclusive content, areas, and experiences.
-2. Governance: Token holders can shape the future of the metaverse by participating in governance decisions that influence developments, upgrades, and improvements.
-3. Rewards: MTK tokens are rewarded for participating in quests, competitions, and activities, encouraging community involvement.
-4. NFT Market: The NFT marketplace uses MTK tokens as its native currency for seamless buying, selling, and trading of virtual assets.
-
-<figure><img src=".gitbook/assets/user adquicition.png" alt=""><figcaption></figcaption></figure>
+####

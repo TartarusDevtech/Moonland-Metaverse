@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/moonlandlogo .png
+cover: .gitbook/assets/image (5) (3).png
 coverY: 0
 layout:
   cover:

@@ -1,6 +1,20 @@
 ---
 cover: .gitbook/assets/ridiing.jpg
-coverY: 0
+coverY: 101
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Storyline and Background

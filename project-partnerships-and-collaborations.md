@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/doggo.jpg
-coverY: 147
----
-
 # Project Partnerships and Collaborations
 
 Moonland Metaverse, created by Meta Studios, prides itself on forging strategic partnerships with leading entities in the blockchain and gaming industries. These partnerships enable us to provide the best virtual experiences and contribute to the overall growth and development of the project.
