@@ -19,19 +19,35 @@ layout:
 
 # Tokenomics
 
-<figure><img src=".gitbook/assets/token 2.jpg" alt=""><figcaption></figcaption></figure>
+## Moonland Metaverse (MTK) Tokenomics
 
-#### Token Distribution:
+### Token Information
 
-* ICO Sale (50%, 617,283,945 MTK Tokens): By offering an initial distribution, we're allowing our early supporters to get their hands on MTK tokens at a great price.&#x20;
-* Presale (5%, 61,728,395 MTK Tokens): For those who see the potential in this project and want to show their early support, the presale offers a unique limited supply of tokens at a discounted rate. This is an excellent opportunity to get involved and be a part of something big from the beginning.
-* Team (10%, 123,456,789 MTK Tokens): By allocating resources in this way, we ensure that our team is fully invested in the project's success. This approach guarantees everyone involved is committed for the long haul, working together to achieve our goals.
-* Marketing and Business Development (10%, 123,456,789 MTK Tokens): For effective promotion.
-* Partnerships (10%, 123,456,789 MTK Tokens): Reserved for strategic collaborations that help drive Moonland's growth and expand its reach.
-* Community (15%, 185,185,184 MTK Tokens): This allocation aims to promote active involvement, encourage participation, and instill a sense of ownership.
+* **Token Name:** Moonland Metaverse Token
+* **Token Symbol:** MTK
+* **Total Supply:** 1,234,567,890 MTK
+* **ICO Price:** $0.21 per MTK token
+* **PRESALE Price:** $0.18 per MTK token
+
+### Token Distribution
+
+* **ICO Sale (50%, 617,283,945 MTK Tokens):**
+* **Presale (5%, 61,728,395 MTK Tokens):**
+* **Team (10%, 123,456,789 MTK Tokens):**
+* **Marketing and Business Development (10%, 123,456,789 MTK Tokens):**
+* **Partnerships (10%, 123,456,789 MTK Tokens):**
+* **Community (15%, 185,185,184 MTK Tokens):**
 
 
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+### Token Utility
 
-####
+The MTK tokens will serve multiple purposes within the Moonland Metaverse:
+
+* **Access:** MTK tokens can be used to access premium features in the metaverse.
+* **Governance:** Token holders can vote on various decisions regarding the future development of the metaverse.
+* **Rewards:** MTK tokens can be earned as rewards for various activities within the metaverse.
+* **NFT Market:** MTK tokens can be used to buy, sell, and trade NFTs in the marketplace.
+* **Discounts & Bonuses:** Moonlanders will be able to buy, sell and NFTs and other items in the metaverse with many different tokens. Transactions done with the MTK token will always get a discount of 11%.
