@@ -19,4 +19,4 @@ layout:
 
 # Tokenomics
 
-##
+<figure><img src=".gitbook/assets/Group 2.png" alt=""><figcaption></figcaption></figure>
