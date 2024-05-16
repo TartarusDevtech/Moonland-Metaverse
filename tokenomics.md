@@ -19,4 +19,4 @@ layout:
 
 # Tokenomics
 
-<figure><img src=".gitbook/assets/Frame 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/telegram-cloud-document-1-5021533315597862068.jpg" alt=""><figcaption></figcaption></figure>
