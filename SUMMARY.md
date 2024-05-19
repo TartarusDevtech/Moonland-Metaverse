@@ -10,7 +10,6 @@
 * [Mini Games](mini-games.md)
 * [Pets & Potions](pets-and-potions.md)
 * [Factions](page-1.md)
-* [Meet the Team](meet-the-team.md)
 * [Project Partnerships and Collaborations](project-partnerships-and-collaborations.md)
 * [Press](press.md)
 * [Moonland´s Current Stage](moonland-s-current-stage.md)

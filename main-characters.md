@@ -33,6 +33,6 @@ In a fit of jealousy, he challenged Kimmi to a duel, which he won, and Kimmi was
 
 As Sol basked in his newfound power and wealth, Doggo saw an opportunity to strike a dark alliance with him and return to Moonland, which saw them both reigning again.&#x20;
 
-The people of Moonland longed for a hero to rise up and lead them to freedom. They hoped that someone would come forward and challenge the new rulers, someone who would be brave, skilled, and determined enough to take down Sal and Doggo's oppressive regime.&#x20;
+The people of Moonland longed for a hero to rise up and lead them to freedom. They hoped that someone would come forward and challenge the new rulers, someone who would be brave, skilled, and determined enough to take down Sol and Doggo's oppressive regime.&#x20;
 
 As they wait for their hero to emerge, the people of Moonland remain hopeful that they’ll be free from tyranny.
